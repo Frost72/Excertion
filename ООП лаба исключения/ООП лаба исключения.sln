@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ООП лаба исключения", "ООП лаба исключения\ООП лаба исключения.csproj", "{023F2F7C-A487-45A6-A47C-74CD1FC20615}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{023F2F7C-A487-45A6-A47C-74CD1FC20615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{023F2F7C-A487-45A6-A47C-74CD1FC20615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{023F2F7C-A487-45A6-A47C-74CD1FC20615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{023F2F7C-A487-45A6-A47C-74CD1FC20615}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F19DDCC9-EB6D-444D-8AB7-96A741AB837C}
+	EndGlobalSection
+EndGlobal

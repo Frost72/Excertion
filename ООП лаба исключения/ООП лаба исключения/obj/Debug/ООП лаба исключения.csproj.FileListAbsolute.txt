@@ -1,0 +1,7 @@
+C:\Users\sasha\source\repos\ООП лаба исключения\ООП лаба исключения\bin\Debug\ООП лаба исключения.exe.config
+C:\Users\sasha\source\repos\ООП лаба исключения\ООП лаба исключения\bin\Debug\ООП лаба исключения.exe
+C:\Users\sasha\source\repos\ООП лаба исключения\ООП лаба исключения\bin\Debug\ООП лаба исключения.pdb
+C:\Users\sasha\source\repos\ООП лаба исключения\ООП лаба исключения\obj\Debug\ООП лаба исключения.csproj.AssemblyReference.cache
+C:\Users\sasha\source\repos\ООП лаба исключения\ООП лаба исключения\obj\Debug\ООП лаба исключения.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\ООП лаба исключения\ООП лаба исключения\obj\Debug\ООП лаба исключения.exe
+C:\Users\sasha\source\repos\ООП лаба исключения\ООП лаба исключения\obj\Debug\ООП лаба исключения.pdb
